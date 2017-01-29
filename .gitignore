@@ -1,3 +1,11 @@
+# Custom
+.idea/
+settings/
+env/
+backup/
+logs/
+lang/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
